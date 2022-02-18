@@ -1,0 +1,5 @@
+
+HILL HP
+ Type: hill
+ Hilling: 25 hp
+ cost: 30 mp

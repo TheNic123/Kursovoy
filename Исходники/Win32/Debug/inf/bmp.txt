@@ -1,0 +1,5 @@
+
+Item
+ Type: hill
+ Hilling: 50 mp
+ Restore: 8 moves

@@ -1,0 +1,5 @@
+
+Item
+ Type: hill
+ Hilling: 50 hp
+ Restore: 8 moves

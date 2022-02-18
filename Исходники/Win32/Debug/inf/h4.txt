@@ -1,0 +1,5 @@
+
+MEGA HILL
+ Type: hill
+ Hilling: 50 hp
+ Cost: 45 mp

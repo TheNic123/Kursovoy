@@ -1,0 +1,8 @@
+
+ULTIMATE
+ Type: Magic
+ Damage: 40-50 hp
+ Cost: 60 mp
+
+
+

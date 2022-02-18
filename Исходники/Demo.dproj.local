@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.855,E:\PR\demo3\Unit1.dfm=E:\PR\demo3\Mabout.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.476,E:\PR\demo3\Unit1.dfm=E:\PR\demo3\Fight.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.286,E:\PR\demo3\Unit1.dfm=E:\PR\demo3\Mhelp.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.639,E:\PR\demo3\Unit1.dfm=E:\PR\demo3\ft_menu.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.956,=E:\PR\demo3\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.442,=E:\PR\demo3\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.575,=E:\PR\demo3\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.615,E:\PR\demo3\Mconf.pas=E:\PR\demo3\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.279,E:\PR\demo3\Mzst.dfm=E:\PR\demo3\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.002,C:\Users\The Nic\Documents\Embarcadero\Studio\Projects\Project1.dproj=E:\PR\demo3\Demo.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.901,C:\Users\The Nic\Documents\Embarcadero\Studio\Projects\Unit1.dfm=E:\PR\demo3\MainMenu.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.455,E:\PR\demo3\Unit1.dfm=E:\PR\demo3\Mhub.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.558,E:\PR\demo3\Unit1.dfm=E:\PR\demo3\Mfinal.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.616,E:\PR\demo3\Mconf.dfm=E:\PR\demo3\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.955,=E:\PR\demo3\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.639,E:\PR\demo3\Unit1.pas=E:\PR\demo3\ft_menu.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.476,E:\PR\demo3\Unit1.pas=E:\PR\demo3\Fight.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.558,E:\PR\demo3\Unit1.pas=E:\PR\demo3\Mfinal.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.279,E:\PR\demo3\Mzst.pas=E:\PR\demo3\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.901,C:\Users\The Nic\Documents\Embarcadero\Studio\Projects\Unit1.pas=E:\PR\demo3\MainMenu.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.001,=C:\Users\The Nic\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.213,=C:\Users\The Nic\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.855,=E:\PR\demo3\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.387,=E:\PR\demo3\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.392,=E:\PR\demo3\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.818,=E:\PR\demo3\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.855,E:\PR\demo3\Unit1.pas=E:\PR\demo3\Mabout.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.455,E:\PR\demo3\Unit1.pas=E:\PR\demo3\Mhub.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.286,E:\PR\demo3\Unit1.pas=E:\PR\demo3\Mhelp.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Fight.pas"/>
+    <File Path="Fight.dfm"/>
+    <File Path="ft_menu.pas"/>
+    <File Path="ft_menu.dfm"/>
+    <File Path="MainMenu.pas"/>
+    <File Path="MainMenu.dfm"/>
+    <File Path="Mconf.pas"/>
+    <File Path="Mconf.dfm"/>
+    <File Path="Mhub.pas"/>
+    <File Path="Mhub.dfm"/>
+    <File Path="Mhelp.pas"/>
+    <File Path="Mhelp.dfm"/>
+    <File Path="Mfinal.pas"/>
+    <File Path="Mfinal.dfm"/>
+    <File Path="Mzst.pas"/>
+    <File Path="Mzst.dfm"/>
+    <File Path="Mabout.pas"/>
+    <File Path="Mabout.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>

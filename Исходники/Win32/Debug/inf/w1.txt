@@ -1,0 +1,5 @@
+
+MAGIC ARROW
+ Type: Magic
+ Damage: 10-15 hp
+ Cost: 0 mp

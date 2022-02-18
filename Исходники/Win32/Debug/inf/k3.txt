@@ -1,0 +1,5 @@
+
+SHIELD HIT
+ Type: Phisical
+ Damage: 20-25 hp
+ Cost: 10 mp

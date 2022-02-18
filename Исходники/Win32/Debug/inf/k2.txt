@@ -1,0 +1,5 @@
+
+STRONG HIT
+ Type: Phisical
+ Damage: 25-35 hp
+ Cost: 20 mp

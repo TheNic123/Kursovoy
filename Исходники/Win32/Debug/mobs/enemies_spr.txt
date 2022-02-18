@@ -1,0 +1,15 @@
+mobs\1_1.png
+mobs\2_1.png
+mobs\3_1.png
+mobs\4_1.png
+mobs\5_1.png
+mobs\6_1.png
+mobs\7_1.png
+mobs\8_1.png
+mobs\9_1.png
+mobs\10_1.png
+mobs\11_1.png
+mobs\12_1.png
+mobs\13_1.png
+mobs\14_1.png
+mobs\15_1.png

@@ -1,0 +1,7 @@
+
+FIREBALL
+ Type: Magic
+ Damage: 25-30 hp
+ Cost: 30 mp
+
+

@@ -1,0 +1,8 @@
+
+ICEBALL
+ Type: Magic
+ Damage: 35-40 hp
+ Cost: 40 mp
+
+
+

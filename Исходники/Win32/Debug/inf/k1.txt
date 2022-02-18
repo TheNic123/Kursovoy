@@ -1,0 +1,5 @@
+
+HIT
+ Type: Phisical
+ Damage: 15-20 hp
+ Cost: 0 mp

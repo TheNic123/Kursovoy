@@ -1,0 +1,5 @@
+
+BERSERK
+ Type: Phisical
+ Damage: 35-45 hp
+ Cost: 30 mp
